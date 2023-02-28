@@ -130,7 +130,7 @@
 }
 
 .Dashboard .router-status-info .settings-info p span:nth-child(2){
-    max-width: 500px;
+    max-width: max-content;
 }
 
 .Dashboard .settings-info p span.ssid {
