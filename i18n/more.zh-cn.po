@@ -1170,62 +1170,7 @@ msgstr "打勾选择表示格式化"
 msgid "Tick means to retain the settings"
 msgstr "打勾选择表示保留设置"
 
-msgid ""
-msgstr "Content-Type: text/plain; charset=UTF-8"
 
-msgid "Lucky"
-msgstr "Lucky大吉"
-
-msgid "Main functions of Lucky: dynamic domain name ddns-go service, which replaces socat. It is mainly used for public IPv6 tcp/udp to intranet ipv4, http/https reverse proxy frp"
-msgstr "大吉主要功能：动态域名ddns-go服务,替代socat主要用于公网IPv6 tcp/udp转内网ipv4,http/https反向代理，网络唤醒(可通过第三方物联网平台接入各大语音助手实现语音控制开关电脑)"
-
-msgid "Running state"
-msgstr "运行状态"
-
-msgid "The Lucky service is running."
-msgstr "大吉服务已启动"
-
-msgid "The Lucky service is not running."
-msgstr "大吉服务未启动"
-
-msgid "Lucky Status"
-msgstr "大吉服务状态"
-
-msgid "Collecting data..."
-msgstr "收集数据..."
-
-msgid "Set the Lucky access port"
-msgstr "设置访问端口"
-
-msgid "Lucky configuration file"
-msgstr "Lucky 配置文件"
-
-msgid "</br>For specific usage, see:"
-msgstr "</br>具体使用方法参见："
-
-msgid "Base Setting"
-msgstr "基本设置"
-
-msgid "Enable Internet access"
-msgstr "开启外网访问"
-
-msgid "Click the new page to open Lucky"
-msgstr "点击新页面打开大吉"
-
-msgid "View Password"
-msgstr "查看密码"
-
-msgid "Username:"
-msgstr "用户名："
-
-msgid "Password:"
-msgstr "密码："
-
-msgid "Reading..."
-msgstr "读取中..."
-
-msgid "Read"
-msgstr "读取"
 
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/newcontainer.lua:619
 msgid "A list of kernel capabilities to add to the container"
@@ -2239,8 +2184,16 @@ msgid ""
 "Interface Name"
 msgstr "哪些接口可以访问桥接网络下的容器，请填写接口名称"
 
+
+
+
 msgid "Lucky"
 msgstr "Lucky"
+
+
+msgid "Main Program"
+msgstr "主程序"
+
 
 msgid "ipv4/ipv6 portforward,ddns,reverseproxy proxy,wake on lan,IOT and more..."
 msgstr "IPv4/IPv6端口转发,动态域名服务,http/https反向代理，网络唤醒(可通过第三方物联网平台接入各大语音助手实现语音控制开关电脑)"
