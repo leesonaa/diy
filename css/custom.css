@@ -119,8 +119,8 @@
 }
 
 .Dashboard .settings-info p span:nth-child(2){
-    word-break: break-all;
-    /*display: inline-block;
+    /*word-break: break-all;
+    display: inline-block;
     word-break: break-all;
     overflow: hidden;
     position: relative;
