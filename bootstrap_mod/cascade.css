@@ -680,6 +680,7 @@ table td,
 .table .td {
     color: #811;
     padding: 3px !important;
+    text-align: center;
 }
 
 table tr+tr td,
@@ -689,7 +690,7 @@ table tr+tr td,
 
 table th,
 .table .th {
-    text-align: left;
+    /*text-align: left;*/
     font-weight: bold;
 }
 
