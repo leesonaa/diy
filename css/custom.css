@@ -86,7 +86,7 @@
 
 .Dashboard .router-status-lan .devices-list .table-titles .th:first-child {
     width: 35%;
-    text-align: left;
+    /*text-align: left;*/
 }
 
 .Dashboard .router-status-self .router-status-info .settings-info {
